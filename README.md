@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/d4akon/fm-blog-preview-card](https://github.com/d4akon/fm-blog-preview-card)
+- Live Site URL: [https://d4akon.github.io/fm-blog-preview-card/](https://d4akon.github.io/fm-blog-preview-card/)
 
 ## My process
 
