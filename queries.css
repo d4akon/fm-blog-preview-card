@@ -1,13 +1,13 @@
 /**************************/
-/* BELOW 500px (Mobile phones) */
+/* BELOW 430px (Mobile phones) */
 /**************************/
 
-@media (max-width: 32em) {
-  .body {
+@media (max-width: 27em) {
+  body {
     font-size: 1.4rem;
   }
 
-  .modal {
+  .blog-card {
     width: 32.7rem;
   }
 
@@ -15,7 +15,8 @@
     font-size: 1.2rem;
   }
 
-  .title {
+  .title:link,
+  .title:visited {
     font-size: 2rem;
   }
 }
