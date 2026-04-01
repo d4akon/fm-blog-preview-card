@@ -45,10 +45,10 @@ Users should be able to:
 After review from Claude and from Frontend Mentor AI, I've learned few new things.
 
 - My img should be inside figure element.
-- Date should have this semantic meaning <time datetime="2023-12-21"> 21 Dec 2023</time>.
+- Date should have this semantic meaning time datetime="2023-12-21" 21 Dec 2023.
 - My h1 should insted be a element, because it was used to navigate.
-- <article> now have footer, rather than simple div to have more semantic meaning.
-- I've didn't add focus state for <a> at first, so I also have learned how, and why to add it.
+- article now have footer, rather than simple div to have more semantic meaning.
+- I've didn't add focus state for a at first, so I also have learned how, and why to add it.
 
 ### AI Collaboration
 
